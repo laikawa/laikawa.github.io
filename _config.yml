@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: lily's blog!# blog_name will be displayed in your blog page
-blog_description: a place for my writing <3
+blog_name: lily's blog! #blog_name will be displayed in your blog page
+blog_description: chess! 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

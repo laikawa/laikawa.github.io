@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lichess.org/team/trans-in-chess'>my chess team!</a>
+subtitle: 
 
 profile:
   align: right
