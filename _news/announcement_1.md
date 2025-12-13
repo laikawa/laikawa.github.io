@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-trans in chess team started!
+[trans in chess](http://reddit.com) team started!
