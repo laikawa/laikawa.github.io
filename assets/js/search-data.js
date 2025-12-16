@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-trans-in-chess-team-started",
+      },{id: "books-eye-in-the-sky",
+          title: 'Eye in The Sky',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/eye_in_the_sky/";
+            },},{id: "news-trans-in-chess-team-started",
           title: 'trans in chess team started!',
           description: "",
           section: "News",},{id: "projects-project-1",
