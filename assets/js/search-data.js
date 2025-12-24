@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/eye_in_the_sky/";
-            },},{id: "news-trans-in-chess-team-started",
-          title: 'trans in chess team started!',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
