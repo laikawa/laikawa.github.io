@@ -27,5 +27,3 @@ latest_posts:
 ---
 
 Hi! I'm lily and i'm really into chess and card games and other stuff. 
-
-you should join our [chess team](http://reddit.com)! it's realy fun we try to be very social and discuss our games. All ratings welcome!
